@@ -13,7 +13,7 @@ It started as a meme after a late-night rewatch, but I ended up going down the r
 
 ```bash
 # Clone and build
-git clone https://github.com/anon-forge/middle_out.git
+git clone https://github.com/shadow-forge-dev/middle_out.git
 cd middle_out
 mkdir build && cd build
 cmake ..
