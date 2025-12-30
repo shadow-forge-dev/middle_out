@@ -1,0 +1,3 @@
+/home/serosh/projects/middle_out/CMakeFiles/middle_out.dir
+/home/serosh/projects/middle_out/CMakeFiles/edit_cache.dir
+/home/serosh/projects/middle_out/CMakeFiles/rebuild_cache.dir

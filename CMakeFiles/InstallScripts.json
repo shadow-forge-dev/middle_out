@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/serosh/projects/middle_out/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
